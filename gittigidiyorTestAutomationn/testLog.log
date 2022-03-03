@@ -1,0 +1,234 @@
+[main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - TEST IS TERMINATED
+  [main] INFO  org.test.Base  - LoginPage Check
+  [main] INFO  org.test.Base  - LoginPage Done
+  [main] INFO  org.test.Base  - TEST IS TERMINATED
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - SearchPage Check Done
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  
