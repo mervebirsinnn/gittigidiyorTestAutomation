@@ -28,5 +28,5 @@ MAVEN - Project Structure. Log4J - JUnit test framework.
 
 ## Project Owner
 
-Anıl Biçici
+Merve Birsin
 
